@@ -89,5 +89,71 @@
   <ItemGroup>
     <None Include="Resources\haunted_house_4_by_fairiegoodmother-d5d3x91.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vacant-house-next-door.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\door-abandoned-house-overgrown-dry-branches-114938725.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2606602775_dbcf2daa4d_b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\88718d87211278dbc468375605393a24.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ad3f14b60d464062dfc3136a07def07d.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\living-room-3035878_960_720.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\https___blogs-images.forbes.com_startswithabang_files_2018_05_PD-of-mammoth-cave.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\v2u9dgwu02emk3i53spd51be876802780.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\116463462-big-old-wooden-chests-covered-with-lids-medieval-reconstruction.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a_box_of_gold_bars_fine_picture_170370.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\68392-58857.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\360_F_304572722_QCxYoGMErpHRs0FndovN1r8hFBkuyS5F.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\390323__lightnessko__creaking.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\436534__skyernaklea__creaking-door-04.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\77604__ephemeral-rift__barefeet-walking-creaking-hardwood-floor-6.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\40158__sagetyrtle__crash.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\443218__topschool__running.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\435853__dersuperanton__running-loud.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

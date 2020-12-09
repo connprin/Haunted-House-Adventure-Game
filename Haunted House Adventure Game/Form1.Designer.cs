@@ -42,8 +42,8 @@
             // 
             // labelMessage
             // 
-            this.labelMessage.BackColor = System.Drawing.Color.DimGray;
-            this.labelMessage.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelMessage.BackColor = System.Drawing.Color.Transparent;
+            this.labelMessage.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelMessage.ForeColor = System.Drawing.Color.Gold;
             this.labelMessage.Location = new System.Drawing.Point(12, 9);
             this.labelMessage.Name = "labelMessage";
@@ -54,34 +54,32 @@
             // 
             // labelRed
             // 
-            this.labelRed.AutoSize = true;
-            this.labelRed.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelRed.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelRed.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.labelRed.Location = new System.Drawing.Point(128, 247);
             this.labelRed.Name = "labelRed";
-            this.labelRed.Size = new System.Drawing.Size(42, 24);
+            this.labelRed.Size = new System.Drawing.Size(338, 39);
             this.labelRed.TabIndex = 1;
             this.labelRed.Text = "Yes";
             // 
             // labelBlue
             // 
-            this.labelBlue.AutoSize = true;
-            this.labelBlue.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelBlue.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelBlue.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.labelBlue.Location = new System.Drawing.Point(131, 300);
+            this.labelBlue.Location = new System.Drawing.Point(128, 300);
             this.labelBlue.Name = "labelBlue";
-            this.labelBlue.Size = new System.Drawing.Size(35, 24);
+            this.labelBlue.Size = new System.Drawing.Size(335, 41);
             this.labelBlue.TabIndex = 2;
             this.labelBlue.Text = "No";
+            this.labelBlue.Click += new System.EventHandler(this.LabelBlue_Click);
             // 
             // labelYellow
             // 
-            this.labelYellow.AutoSize = true;
-            this.labelYellow.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelYellow.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelYellow.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.labelYellow.Location = new System.Drawing.Point(128, 354);
+            this.labelYellow.Location = new System.Drawing.Point(128, 341);
             this.labelYellow.Name = "labelYellow";
-            this.labelYellow.Size = new System.Drawing.Size(0, 24);
+            this.labelYellow.Size = new System.Drawing.Size(335, 37);
             this.labelYellow.TabIndex = 3;
             // 
             // labelInstructions
@@ -89,7 +87,7 @@
             this.labelInstructions.AutoSize = true;
             this.labelInstructions.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelInstructions.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.labelInstructions.Location = new System.Drawing.Point(688, 324);
+            this.labelInstructions.Location = new System.Drawing.Point(13, 110);
             this.labelInstructions.Name = "labelInstructions";
             this.labelInstructions.Size = new System.Drawing.Size(100, 72);
             this.labelInstructions.TabIndex = 7;
@@ -98,9 +96,9 @@
             // yellowButton
             // 
             this.yellowButton.Image = global::Haunted_House_Adventure_Game.Properties.Resources.yellow_50x50;
-            this.yellowButton.Location = new System.Drawing.Point(25, 342);
+            this.yellowButton.Location = new System.Drawing.Point(35, 341);
             this.yellowButton.Name = "yellowButton";
-            this.yellowButton.Size = new System.Drawing.Size(100, 54);
+            this.yellowButton.Size = new System.Drawing.Size(77, 54);
             this.yellowButton.TabIndex = 6;
             // 
             // blueButton
@@ -123,12 +121,13 @@
             // 
             this.pictureBox1.BackgroundImage = global::Haunted_House_Adventure_Game.Properties.Resources.haunted_house_4_by_fairiegoodmother_d5d3x91;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(525, 110);
+            this.pictureBox1.Location = new System.Drawing.Point(486, 110);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(228, 192);
+            this.pictureBox1.Size = new System.Drawing.Size(292, 312);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 8;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.PictureBox1_Click_1);
             // 
             // Form1
             // 

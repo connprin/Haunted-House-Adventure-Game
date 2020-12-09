@@ -63,9 +63,144 @@ namespace Haunted_House_Adventure_Game.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _116463462_big_old_wooden_chests_covered_with_lids_medieval_reconstruction {
+            get {
+                object obj = ResourceManager.GetObject("_116463462_big_old_wooden_chests_covered_with_lids_medieval_reconstruction", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _2606602775_dbcf2daa4d_b {
+            get {
+                object obj = ResourceManager.GetObject("_2606602775_dbcf2daa4d_b", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _360_F_304572722_QCxYoGMErpHRs0FndovN1r8hFBkuyS5F {
+            get {
+                object obj = ResourceManager.GetObject("_360_F_304572722_QCxYoGMErpHRs0FndovN1r8hFBkuyS5F", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream _390323__lightnessko__creaking {
+            get {
+                return ResourceManager.GetStream("_390323__lightnessko__creaking", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream _40158__sagetyrtle__crash {
+            get {
+                return ResourceManager.GetStream("_40158__sagetyrtle__crash", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream _435853__dersuperanton__running_loud {
+            get {
+                return ResourceManager.GetStream("_435853__dersuperanton__running_loud", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream _436534__skyernaklea__creaking_door_04 {
+            get {
+                return ResourceManager.GetStream("_436534__skyernaklea__creaking_door_04", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] _443218__topschool__running {
+            get {
+                object obj = ResourceManager.GetObject("_443218__topschool__running", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _68392_58857 {
+            get {
+                object obj = ResourceManager.GetObject("_68392_58857", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream _77604__ephemeral_rift__barefeet_walking_creaking_hardwood_floor_6 {
+            get {
+                return ResourceManager.GetStream("_77604__ephemeral_rift__barefeet_walking_creaking_hardwood_floor_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _88718d87211278dbc468375605393a24 {
+            get {
+                object obj = ResourceManager.GetObject("_88718d87211278dbc468375605393a24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap a_box_of_gold_bars_fine_picture_170370 {
+            get {
+                object obj = ResourceManager.GetObject("a_box_of_gold_bars_fine_picture_170370", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ad3f14b60d464062dfc3136a07def07d {
+            get {
+                object obj = ResourceManager.GetObject("ad3f14b60d464062dfc3136a07def07d", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap blue_50x50 {
             get {
                 object obj = ResourceManager.GetObject("blue_50x50", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap door_abandoned_house_overgrown_dry_branches_114938725 {
+            get {
+                object obj = ResourceManager.GetObject("door_abandoned_house_overgrown_dry_branches_114938725", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +218,58 @@ namespace Haunted_House_Adventure_Game.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap https___blogs_images_forbes_com_startswithabang_files_2018_05_PD_of_mammoth_cave {
+            get {
+                object obj = ResourceManager.GetObject("https___blogs_images_forbes_com_startswithabang_files_2018_05_PD_of_mammoth_cave", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap living_room_3035878_960_720 {
+            get {
+                object obj = ResourceManager.GetObject("living_room_3035878_960_720", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap red_50x50 {
             get {
                 object obj = ResourceManager.GetObject("red_50x50", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to https://images.fineartamerica.com/images-medium-large/front-door-of-abandoned-house-jill-battaglia.jpg.
+        /// </summary>
+        internal static string String {
+            get {
+                return ResourceManager.GetString("String", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap v2u9dgwu02emk3i53spd51be876802780 {
+            get {
+                object obj = ResourceManager.GetObject("v2u9dgwu02emk3i53spd51be876802780", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap vacant_house_next_door {
+            get {
+                object obj = ResourceManager.GetObject("vacant_house_next_door", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
