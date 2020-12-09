@@ -155,5 +155,8 @@
   <ItemGroup>
     <None Include="Resources\435853__dersuperanton__running-loud.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Archigraphs-Oldies-Old-House.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.labelMessage = new System.Windows.Forms.Label();
             this.labelRed = new System.Windows.Forms.Label();
             this.labelBlue = new System.Windows.Forms.Label();
@@ -144,6 +145,7 @@
             this.Controls.Add(this.labelBlue);
             this.Controls.Add(this.labelRed);
             this.Controls.Add(this.labelMessage);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Haunted House";
             this.Load += new System.EventHandler(this.Form1_Load);
